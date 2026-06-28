@@ -5,7 +5,7 @@ import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "7 Brew Gift Card",
+  title: "Bestway Gift Card",
   description: "Participate in the T-Mobile Rewards program and get a chance to claim a $1000 gift card.",
     icons: {
     icon: [
